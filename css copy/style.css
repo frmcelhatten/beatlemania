@@ -1,0 +1,114 @@
+/*GENERAL STYLES */
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: "Sofadi One", sans-serif;
+    margin: 0 auto;
+    background-color: #bd9cbd;
+    max-width: 1000px;
+}
+
+header,
+footer {
+    
+    background-color: lightyellow;
+    border: 2px solid black;
+    font-family: 'Monoton', cursive;
+    width: 100%;
+    margin: 15px 0px 15px 0px;
+    margin: auto; 
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap ;
+    justify-content: center;
+    background-color: #bd9cbd;
+} 
+
+img {
+    padding: 10px;
+    
+}
+
+p {
+    color: #0b0a23;
+    font-size: 12pt;
+    padding: 10px;
+}
+
+
+
+#beatle1{
+    background-color: lightskyblue;
+    border: 2px solid #723aca;
+    margin: 5px;
+    text-align: center; 
+    flex-basis: 30%;
+}
+#beatle2{
+    background-color: rgb(151, 221, 181);
+    border: 2px solid #723aca;
+    margin: 5px;
+    text-align: center; 
+    flex-basis: 30%;
+}
+#beatle3{
+    background-color: lightskyblue;
+    border: 2px solid #723aca;
+    margin: 5px;
+    text-align: center; 
+    flex-basis: 30%;
+}
+#beatle4{
+    background-color: rgb(151, 221, 181);
+    border: 2px solid #723aca;
+    margin: 5px;
+    text-align: center; 
+    flex-basis: 30%;
+}
+#beatle5{
+    background-color: lightskyblue;
+    border: 2px solid #723aca;
+    margin: 5px;
+    text-align: center; 
+    flex-basis: 30%;
+}
+#beatle6{
+    background-color: rgb(151, 221, 181);
+    border: 2px solid #723aca;
+    margin: 5px;
+    text-align: center; 
+    flex-basis: 30%;
+}
+#beatle7{
+    background-color: lightskyblue;
+    border: 2px solid #723aca;
+    margin: 5px;
+    text-align: center; 
+    flex-basis: 30%;
+}
+#beatle8{
+    background-color: rgb(151, 221, 181);
+    border: 2px solid #723aca;
+    margin: 5px;
+    text-align: center; 
+    flex-basis: 30%;
+}
+#beatle9{
+    background-color: lightskyblue;
+    border: 2px solid #723aca;
+    margin: 5px;
+    text-align: center; 
+    flex-basis: 30%;
+}
+
